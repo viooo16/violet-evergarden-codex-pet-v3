@@ -1,0 +1,27 @@
+# Credentials and local configuration
+.env
+.env.*
+*.key
+*.pem
+*credentials*
+*secret*
+
+# Generation and dependency workspaces
+work/
+output/
+outputs/
+deps/
+deps-*/
+generated/
+decoded/
+
+# Local tooling
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Temporary publication state
+.github-publish.env

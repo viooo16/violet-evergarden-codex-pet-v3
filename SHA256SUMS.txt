@@ -1,0 +1,2 @@
+afc71a1ab302998bccdb1f25386055704c984cffc5f61cbfa8cd4bb819bd6a5b  pet.json
+b084ad5590f3dae742ae91f5d9a2fa30fb8db6545c47d6e26d1a67ec612b5aaf  spritesheet.webp
